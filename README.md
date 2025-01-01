@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harishsakaray
 - 👀 I’m deeply passionate about programming, data analytics and cybersecurity. I love using code to analyze data, identify patterns and secure systems.
-- 🌱 I’m currently pursuing my MS in Cybersecurity, while also applying my PGDM background to solve real-world problems in Data Analytics and Security Automation.
+- 🌱 I have done my MS in Cybersecurity, while also applying my PGDM background to solve real-world problems in Data Analytics and Security Automation.
 - 💞️ I’m looking to collaborate on projects that bring together data analytics, cybersecurity and automation, especially those that involve coding for enhanced security solutions.
 - 📫 How to reach me: harishsakaray9@gmail.com
 - 😄 Pronouns: He/Him
